@@ -210,29 +210,29 @@
 
 .page-header {
     background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-        url(../img/carousel-1.jpg) center center no-repeat;
+        url(../img/carousel-2.jpg) center center no-repeat;
     background-size: cover;
     height: 650px;
 }
 
 .bg1 {
     background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-        url(../img/carousel-4.jpg) center center no-repeat;
+        url(../img/carousel-2.jpg) center center no-repeat;
     background-size: cover;
 }
 .bg2 {
     background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-        url(../img/carousel-5.jpg) center center no-repeat;
+        url(../img/carousel-2.jpg) center center no-repeat;
     background-size: cover;
 }
 .bg3 {
     background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-        url(../img/carousel-6.jpg) center center no-repeat;
+        url(../img/carousel-2.jpg) center center no-repeat;
     background-size: cover;
 }
 .bg4 {
     background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-        url(../img/carousel-7.jpg) center center no-repeat;
+        url(../img/carousel-2.jpg) center center no-repeat;
     background-size: cover;
 }
 
